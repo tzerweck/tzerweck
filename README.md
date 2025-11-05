@@ -1,5 +1,5 @@
 # Hi there, I'm Tristan!
-I'm interested in Physics and AI.
+I'm interested in the intersection of Physics and AI.
 
 I have worked on applications of ML to the quantum many-body problem, 
 photonic neural networks and applying ML and Variational Monte Carlo to Moire materials.
