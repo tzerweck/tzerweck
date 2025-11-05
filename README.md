@@ -1,10 +1,10 @@
-# Hi there, I'm Tristan. 
-#I'm interested in Physics and AI.
+# Hi there, I'm Tristan!
+I'm interested in Physics and AI.
 
-#In the past I have worked on applications of ML to the quantum many-body problem, 
-#photonic neural networks and applying ML and Variational Monte Carlo to Moire materials.
+I have worked on applications of ML to the quantum many-body problem, 
+photonic neural networks and applying ML and Variational Monte Carlo to Moire materials.
 
-#Feel free to reach out via https://www.linkedin.com/in/tristanzerweck/
+Feel free to reach out via https://www.linkedin.com/in/tristanzerweck/
 <!--
 **tzerweck/tzerweck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
