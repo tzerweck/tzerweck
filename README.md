@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm Tristan. 
+# Hi there, I'm Tristan. 
 
 I'm interested in Physics and AI.
 
