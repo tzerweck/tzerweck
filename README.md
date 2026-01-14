@@ -1,8 +1,13 @@
 # Hi there, I'm Tristan!
-Interested in the intersection of Physics and AI.
+Interested in: 
+- the intersection of Physics and AI
+- automizing workflows end-to-end with agentic systems
 
-Worked on applications of ML to quantum many-body problems, 
-photonic neural networks and applying ML and Variational Monte Carlo to Moire materials.
+Worked on: 
+- applications of ML to quantum many-body problems & photonic neural networks
+- using ML and Variational Monte Carlo for understanding Moire materials
+- automatically structuring fragmented data with agents
+- optimizing workflows, including email processing, specific data extraction, file generation
 
 Feel free to reach out via https://www.linkedin.com/in/tristanzerweck/
 <!--
