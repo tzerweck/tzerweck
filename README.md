@@ -7,7 +7,7 @@ Worked on:
 - applications of ML to quantum many-body problems & photonic neural networks
 - using ML and Variational Monte Carlo for understanding Moire materials
 - automatically structuring fragmented data with agents
-- optimizing workflows that need different tools via orchestrating subagents
+- optimizing workflows that need different tools via orchestration of agents
 
 Feel free to reach out via https://www.linkedin.com/in/tristanzerweck/
 <!--
