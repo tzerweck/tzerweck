@@ -1,12 +1,12 @@
 # Hi there, I'm Tristan!
 Interested in: 
 - the intersection of AI and science (esp. Quantum Physics)
-- building AI coworkers
 - agents for science
+- building AI coworkers
 
 Worked on: 
 - applications of ML to quantum many-body problems & photonic neural networks
-- training neural networks and using Variational Monte Carlo to understand quantum phases in Moire materials
+- Variational Monte Carlo to understand quantum phases in Moire materials
 - self-improving agents
 - proactive AI coworkers
   
