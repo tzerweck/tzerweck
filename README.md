@@ -1,14 +1,15 @@
 # Hi there, I'm Tristan!
 Interested in: 
-- the intersection of Physics and AI
-- automizing workflows end-to-end with agentic systems
+- the intersection of AI and science (esp. Quantum Physics)
+- building AI coworkers
+- agents for science
 
 Worked on: 
 - applications of ML to quantum many-body problems & photonic neural networks
-- using ML and Variational Monte Carlo for understanding Moire materials
-- automatically structuring fragmented data with agents
-- optimizing workflows that need different tools via orchestration of agents
-
+- training neural networks and using Variational Monte Carlo to understand quantum phases in Moire materials
+- self-improving agents
+- proactive AI coworkers
+  
 Feel free to reach out via https://www.linkedin.com/in/tristanzerweck/
 <!--
 **tzerweck/tzerweck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
