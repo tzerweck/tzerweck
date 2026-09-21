@@ -10,7 +10,7 @@ Worked on:
 - self-improving agents
 - proactive AI coworkers
   
-Feel free to reach out via https://www.linkedin.com/in/tristanzerweck/
+Feel free to reach out about anything!
 <!--
 **tzerweck/tzerweck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
